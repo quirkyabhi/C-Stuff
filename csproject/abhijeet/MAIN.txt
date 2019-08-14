@@ -1,0 +1,472 @@
+1 Hydrogen :-
+1.)It is a colourless,odourless and tasteless gas and it is the lightest gas known.
+2.)It is only very slightly soluble in water.
+3.)It can be liquefied under high pressure and at low temperature.
+2 Helium :-
+1.)t is a colourless,odourless and tasteless gas.
+2.)It is the lightest gas known.
+3.)It is used for providing an inert atmosphere and it is non-inflammable.
+3 Lithium :-
+1.)Lithium is a silvery white metal.
+2.)It is quite soft.
+3.)Lithium imparts crimson red colour to the flame.
+4 Beryllium :-
+1.)Beryllium is very hard in nature.
+2.)It is used as a scavanger ion metallurgy.
+ 3.)It is used in X-Ray window.
+5 Boron :-
+ 1.)Boron exist in three allotropic forms.
+ 2.)Boron is a poor conductor of electricity.
+ 3.)Boron is quite inert towards water.
+6 Carbon :-
+ 1.)It is a non-metallic element.
+ 2.)It occurs both in free as well as combined state.
+ 3.)Air also contain carbon as carbon-di-oxide.
+7 Nitrogen :-
+ 1.)It is a typical non-metal.
+ 2.)It exists as diatomic molecule.
+ 3.)It is highly electronegative element.
+8 Oxygen :-
+ 1.)It is a non-metal.
+ 2.)It is paramagnatic in nature.
+ 3.)It is most abundant element in earth's crust.
+9 Fluorine :-
+ 1.)It is a non-metallic element.
+ 2.)It is most electronegative in nature.
+ 3.)It is used in the preparation of uranium hexafluoride.
+11 Neon :-
+ 1.)It is a gas.
+ 2.)It is widely used in sign boards.
+ 3.)It is used in T.V.,radio,photography and warning signals.
+11 Sodium :-
+ 1.)It occurs only in the combined form.
+ 2.)NaCl,common salt found as rock salt, in sea water.
+ 3.)Sodium nitrate as chili saltpetre or Caliche in Chile.
+12  Magnesium:- 
+ 1.)It is used in manufacture of alloys. 
+ 2.)It is extracted by reduction of MgO. 
+ 3.)It is used as a reducing agent for boron and silicon. 
+13 Aluminium:- 
+ 1.)It is a reactive metal. 
+ 2.)It exists in combined state. 
+ 3.)It is present in earth's crust & its relative abundance is 8.3. 
+14  Silicon:- 
+ 1.)Silicon is very abundant element. 
+ 2.)It is present in earth's crust to the extexnt of 28%. 
+ 3.)It is present in the form of silica. 
+15  Phosphorus:- 
+ 1.)It is a reactive non-metal. 
+ 2.)It is the tenth element in the order of abundance in earth crust. 
+ 3.)It exists in combined form. 
+16  Sulphur:- 
+ 1.)It is present in small proportion. 
+ 2.)It is used as disinfectant for destroying bacteria,fungi. 
+ 3.)It is used in vulcanisation of rubber. 
+ Chlorine:- 
+ 1.)It is a non-metallic element. 
+ 2.)It is used in bleaching textile,yarn,paper,pulp. 
+ 3.)It is used in the sterilization of drinking water. 
+18  Argon:- 
+ 1.)It is a noble-gas. 
+ 2.)It is found in traces in the certain spring water. 
+ 3.)It is used in metal filament electric lamps. 
+9  Potassium:- 
+ 1.)It occurs in combined form. 
+ 2.)Potassium carbonate is a constituent of wood ashes. 
+ 3.)It is prepared by electrolysis of fused potassium cyanide. 
+20  Calcium:- 
+ 1.)It forms bivalent ions. 
+ 2.)It imparts brick red colour to flame. 
+ 3.)It's melting point & boiling point is 1112K & 1767K. 
+21  Scandium:- 
+ 1.)It's atomic radius is 144 p.m. 
+ 2.)It exhibits +2 & +3 oxidation states. 
+ 3.)Colour of it's ion is white. 
+22  Titanium:- 
+ 1.)Its atomic radii is 132pm. 
+ 2.)It contains two unpaired electrons. 
+ 3.)It exhibits +2 & +3 oxidation states. 
+23  Vanadium:- 
+ 1.)It's magnatic moment is 2.76 B.M. 
+ 2.)It exhibits stable +5 oxidation state. 
+ 3.)It forms green & white ions. 
+24  Chromium:- 
+ 1.)It's magnetic moment is 3.86 B.M. 
+ 2.)It is used in making of alloys & in plating of metals. 
+ 3.)Dichromate ion is used as volumetric reagent. 
+25  Manganese:- 
+ 1.)It has abnormally low melting point. 
+ 2.)It's important ores are pyrolusite and braunite. 
+ 3.)It is used to manufacture steel, rail lines etc. 
+26  Iron:- 
+ 1.)It is used in formation of various alloys.  
+ 2.)It exhibits +2 & +3 oxidation states. 
+ 3.)It forms various non-stoichiometric oxides. 
+27  Cobalt:- 
+ 1.)It forms pink coloured ions. 
+ 2.)Cobalt salts catalyse the decomposition of bleaching powder. 
+ 3.)It forms the basic oxide CaO. 
+28 Nickel:- 
+ 1.)It forms green coloured ions. 
+ 2.)It exhibits +2,+3,+4 oxidation states. 
+ 3.)It is used in hydrogenation reaction in organic chemistry. 
+29  Copper:- 
+ 1.)It is a dimagnetic substance. 
+ 2.)It occurs in free as well as in combined form. 
+ 3.)It is used in making copper wires and electrical goods. 
+30  Zinc:- 
+ 1.)Zinc blend is usually the main ore. 
+ 2.)Zinc is a metal. 
+ 3.)Zinc is a moderately hard,brittle element. 
+31  Gallium:- 
+ 1.)It is a shining greyish white metal. 
+ 2 .)it has a density of 5.9 in solid and 6.095 in liquid state. 
+ 3.)It has a very low melting point of 30^C. 
+32 Germanium:- 
+ 1.)It's atomic radius is 122 pm . 
+ 2.)It's bond energy is 167.2 KJ/mol. 
+ 3.)It is used as semi-conductor. 
+33  Arsenic:- 
+ 1.)It is an element of p-block. 
+ 2.)It exists in yellow and grey colour. 
+ 3.)It's electronegativity is 2. 
+34  Selenium:- 
+ 1.)It is an element of p-block. 
+ 2.)It's atomic radius is 116pm. 
+ 3.)It's density in solid state is 4.79g/c.c. 
+35  Bromine:- 
+ 1.)It's atomic radius is 101.4pm. 
+ 2.)It's ionisation energy is 1142 KJ/mol. 
+ 3.)It is reddish brown in colour. 
+36  Krypton:- 
+ 1.)It is a noble gas. 
+ 2.)It is attached by weak Van der wall forces. 
+ 3.)It does not exist as adiatomic molecule. 
+37  Rubidium:- 
+ 1.)It catches fire spontaneously in air. 
+ 2.)It boils at 696K giving bluish vapours. 
+ 3.)It is a silvery white metal which melts at 311K. 
+38  Stroncium:-  
+ 1.)It was discovered by Davy. 
+ 2.)It is a soft white metal & possess specific gravity of 2.5. 
+ 3.)It is malleable and ductile. 
+39  Yttrium:- 
+ 1.)Yttrium is a chemical element with symbol Y and atomic number 39.
+ 2.)It is a silvery-metallic transition metal chemically similar to  the lanthanides 
+ 3)Often classified as a "rare earth element".
+40  Zirconium:- 
+ 1.)It is a silvery white metal. 
+ 2.)It's oxide is a refractory material. 
+ 3.)When heated in air it give black oxide. 
+41  Niobium:- 
+ 1.)Niobium, formerly columbium, is a chemical element with symbol Nb and atomic number 41.
+ 2.)It is a soft, grey, ductile transition metal. 
+ 3)It is often found in the pyrochlore  mineral,the main commercial source for niobium, and columbite.
+42  Molybdenum:- 
+ 1.)It acts as good adsorbant. 
+ 2.)It is a grey metallic powder which remains untarnished in air. 
+ 3.)When heated it gradually passes into oxide. 
+43  Technetium:- 
+ 1.)Technetium is a chemical element with symbol Tc and atomic number 43.
+ 2.)It is the lightest element of which all isotopes are radioactive; none are stable.
+ 3.)Only one other such element, promethium, is followed by elements with stable isotopes.
+44  Ruthenium:- 
+ 1.)Ruthenium is a chemical element with symbol Ru and atomic number 44.
+ 2.)It is a rare transition metal belonging to the platinum group of the periodic table.
+ 3.)Like the other metals of the platinum group, ruthenium is inert to most other chemicals. 
+45  Rhodium:- 
+ 1.)Rhodium is a chemical element with symbol Rh and atomic number 45. 
+ 2.)It is a rare, silvery-white, hard, and chemically inert transition metal. 
+ 3.)It is a member of the platinum group. It has only one naturally occurring isotope, ¹°³Rh.
+46  Palladium:- 
+ 1.)Palladium is a chemical element with symbol Pd and atomic number 46. 
+ 2.)It is a rare and lustrous silvery-white metal.
+ 3)It was discovered in 1803  by William Hyde Wollaston. 
+47 Silver:- 
+ 1.)It is a lustrous white metal. 
+ 2.).It is a good conductor of heat and electricity. 
+ 3.)It finds use in ornaments. 
+48  Cadmium:- 
+ 1.)It is a soft bluish white metal. 
+ 2.)It gets oxidised with moist air but when heated it yields CdO. 
+ 3.)It melts at 594K and boils at 1040K. 
+49  Indium:- 
+ 1.)It is a lustrous white metal. 
+ 2.)It is malleable and ductile but becomes brittle at about 473K. 
+ 3.)It is not attacked by organic acids. 
+50  Tin:- 
+ 1)It is a lustrous white metal. 
+ 2.)It is not attacked by organic acids. 
+ 3.)It exibits three allotropic forms. 
+51  Tin:- 
+ 1.)It is a lustrous white metal. 
+ 2.)It is not attacked by organic acids. 
+ 3.)It exibits three allotropic forms. 
+52  Tellurium:- 
+ 1.)It is poor conductor of electricity. 
+ 2.)Powdered Te is grey in colour. 
+ 3.)On heating it becomes crystalline. 
+53  Iodine:- 
+ 1.)It is spriangly soluble in water. 
+ 2.)Iodine warmed with alcohol forms iodoform. 
+ 3.)It gives shining black cryastals with metallic lusture. 
+54  Xenon:- 
+ 1.)It is a noble gas. 
+ 2.)It forms a number of stable compounds. 
+ 3.)It is a monoatomic gas at room temprature. 
+55  Caesium:- 
+ 1.)Caesium or cesium is a chemical element with symbol Cs and atomic number 55.
+ 2.)It is a soft, silvery-gold alkali metal with a melting point of 28.5 °C. 
+ 3)It one of only five elemental metals that are liquid at or near room temperature. 
+56  Barium:- 
+ 1.)Its density is 3.62g/c.c. 
+ 2.)Its electronegativity is 0.89. 
+ 3.)Its atomic radius is 222pm. 
+57  Lanthanum:- 
+ 1.)Its ionic radius is 103pm. 
+ 2.)It exhibits oxidation state of +3. 
+ 3.)Its atomic radius is 187pm. 
+58  Cerium:- 
+ 1.)It is a good oxidising agent. 
+ 2.)Forms alloys readily with other metals. 
+ 3.)It has high electropositive character. 
+59  Praseodymium:- 
+ 1.)Praseodymium is a chemical element with symbol Pr and atomic number 59. 
+ 2.)Praseodymium is a soft, silvery, malleable and ductile metal in the lanthanide group.
+ 3.)It is valued for its magnetic, electrical, chemical, and optical properties. 
+60  Neodymium:- 
+ 1.)Neodymium is a chemical element with symbol Nd and atomic number 60. 
+ 2.)It is a soft silvery metal that tarnishes in air. 
+ 3.)Neodymium was discovered in 1885 by the Austrian chemist Carl Auer von Welsbach. 
+61  Promethium:- 
+ 1.)Promethium, originally prometheum, is a chemical element with the symbol Pm and  atomic number 61. 
+ 2.)All of its isotopes are radioactive.
+ 3)It is one of only two such elements that are followed in the periodic table by elements with stable forms, a distinction shared with technetium.
+62  Samarium:- 
+ 1.)Samarium is a chemical element with symbol Sm and atomic number 62. 
+ 2.)It is a moderately hard silvery metal that readily oxidizes in air. 
+ 3.)Being a typical member of the lanthanide series, samarium usually assumes the oxidation state +3. 
+63  Europium:- 
+ 1.)Europium is a chemical element with symbol Eu and atomic number 63. 
+ 2.)It was isolated in 1901 and is named after the continent of Europe. 
+ 3.)It is a moderately hard, silvery metal which readily oxidizes in air and water. 
+64  Gadolinium:- 
+ 1.)Gadolinium is a chemical element with symbol Gd and atomic number 64. 
+ 2.)It is a silvery-white, malleable and ductile rare-earth metal.
+ 3.)It is found in nature only in combined form.
+65  Terbium:- 
+ 1.)Terbium is a chemical element with symbol Tb and atomic number 65. 
+ 2.)It is a silvery-white rare earth metal.
+ 3) It is malleable, ductile and soft enough to be cut with a knife. 
+66  Dysprosium:- 
+ 1.)Dysprosium is a chemical element with the symbol Dy and atomic number 66. 
+ 2.)It is a rare earth element with a metallic silver luster. 
+ 3.)Dysprosium is never found in nature as a free element, though it is found in various minerals, such as xenotime. 
+67  Holmium:- 
+ 1.)Holmium is a chemical element with symbol Ho and atomic number 67. 
+ 2.)Part of the lanthanide series, holmium is a rare earth element.  
+ 3.)Holmium was discovered by Swedish chemist Per Theodor Cleve. 
+68  Erbium:- 
+ 1.)Erbium is a chemical element in the lanthanide series, with symbol Er and atomic number 68. 
+ 2.)A silvery-white solid metal when artificially isolated.
+ 3)Natural erbium is always found in chemical combination with other elements on Earth.
+69  Thulium:- 
+ 1.)Thulium is a chemical element with symbol Tm.
+ 2)Its atomic number 69. 
+ 3.)It is the thirteenth and antepenultimate element in the lanthanide series.
+ 70  Ytterbium:- 
+ 1.)Ytterbium is a chemical element with symbol Yb and atomic number 70. 
+ 2.)It is the fourteenth and penultimate element in the lanthanide series.
+ 3) It is the basis of the relative stability of its +2 oxidation state.
+71  Lutetium:- 
+ 1.)Lutetium is a chemical element with symbol Lu and atomic number 71. 
+ 2.)It is a silvery white metal. 
+ 3)It resists corrosion in dry, but not in moist air. 
+ 72  Hafnium:- 
+ 1.)It is a silvery white metal. 
+ 2.)It occurs in minerals. 
+ 3.)It exhibits +3 & +4 oxidation states. 
+73  Tantalum:- 
+ 1.)It is resistant to corrosion. 
+ 2.)It is used in surgical vessel & as an anlytical weights. 
+ 3.)It's atomic radii is 134pm. 
+74  Tungsten:- 
+ 1.)It is hardest metal known. 
+ 2.)It's filament is used in incandescent bulbs. 
+ 3.)It's alloy forms steel for high speed tools. 
+75  Rhenium:- 
+ 1.)Rhenium is a chemical element with symbol Re.
+ 2)Its atomic number 75. 
+ 3.)It is a silvery-white, heavy, third-row transition metal in group 7 of the periodic table.
+76 Osmium:- 
+ 1.)Osmium is a chemical element with symbol Os and atomic number 76. 
+ 2.)It is a hard, brittle, bluish-white transition metal in the platinum group.
+ 3)It is found as a trace element in alloys, mostly in platinum ores.
+77  Iridium:- 
+ 1.)Iridium is a chemical element with symbol Ir and atomic number 77. 
+ 2.)A very hard, brittle, silvery-white transition metal of the platinum group.
+ 3) Iridium is generally credited with being the second densest element.
+78  Platinium:- 
+ 1.)It is very less reactive metal. 
+ 2.)It shows catalytic properties in contact process. 
+ 3.)It is used in the manufacture of hydrogen electrodes. 
+79  Gold:- 
+ 1.)It is known as coinage metal. 
+ 2.)It is used in jwellery. 
+3.)It has high electrical & thermal conductivity. 
+ 80  Mercury:- 
+ 1.)It is used in thermometers. 
+ 2.)It is useful in making electrical contacts. 
+ 3.)It is used in preparing amalgams of Cu,Ag,etc. 
+81  Thallium:- 
+ 1.)Thallium is a chemical element with symbol Tl and atomic number 81. 
+ 2.)This soft gray post-transition metal is not found free in nature. 
+3.)When isolated, it resembles tin, but discolors when exposed to air.
+ 82  Lead:- 
+ 1.)It is used for making containers. 
+ 2.)It's atomic radius is 146pm. 
+ 3.)It's electronegativity is 1.9. 
+83  Bismuth:- 
+ 1Its atomic no is 83 and its symbol is Bi. 
+ 2.)It's density is 9.3g/c.c. 
+ 3.)It's atomic radius is 150pm. 
+84  Polonium:- 
+ 1.)Polonium is a chemical element with symbol Po and atomic number 84. 
+ 2.)A rare and highly radioactive metal with no stable isotopes.
+ 3)Polonium is chemically similar to selenium and tellurium.
+85  Astatine:- 
+ 1.)Astatine is a radioactive chemical element with the chemical symbol At and atomic number 85.
+ 2)It is the rarest naturally occurring element on the Earth's crust. 
+ 3)It occurs on Earth as the decay product of various heavier elements.
+86  Radon:- 
+ 1.)Radon is a chemical element with symbol Rn and atomic number 86. 
+ 2.)It is a radioactive, colorless, odorless, tasteless noble gas, occurring naturally as a decay product of radium. 
+ 3.)Its most stable isotope, ²²²Rn, has a half-life of 3.8 days.
+87  Francium:- 
+ 1.)Francium is a chemical element with symbol Fr and atomic number 87. 
+ 2.)It used to be known as eka-caesium and actinium K. 
+ 3.)It is the second-least electronegative element, behind only caesium, and is the second rarest naturally occurring element.
+88  Radium:- 
+ 1.)It's density is 6g/c.c. 
+ 2.)It's ionic radii is 1.52pm. 
+ 3.)It is a radioactive element. 
+89  Actinium:- 
+ 1.)Actinium is a radioactive chemical element with symbol Ac.
+ 2)atomic number 89 which was discovered in 1899. 
+ 3.)It was the first non-primordial radioactive element to be isolated.
+90  Thorium:- 
+ 1.)Thorium is a chemical element with symbol Th and atomic number 90. 
+ 2.)A radioactive is an actinide metal.
+ 3)Thorium is one of only two significantly radioactive elements that still occur naturally in large quantities as a primordial element.
+91  Protactinium:- 
+ 1.)Protactinium or protoactinium is a chemical element with symbol Pa and atomic number 91. 
+ 2.)It is a dense, silvery-gray metal.
+ 3.)It readily reacts with oxygen, water vapor and inorganic acids.
+92  Uranium:- 
+ 1.)Uranium is a chemical element with symbol U and atomic number 92. 
+ 2.)It is a silvery-white metal in the actinide series of the periodic table. 
+ 3.)A uranium atom has 92 protons and 92 electrons, of which 6 are valence electrons.
+93  Neptunium:- 
+ 1.)Neptunium is a chemical element with symbol Np and atomic number 93. 
+ 2.)A radioactive actinide metal.
+ 3.)Neptunium is the first transuranic element.
+94  Plutonium:- 
+ 1.)Plutonium is a transuranic radioactive chemical element with symbol Pu and atomic number 94. 
+ 2.)It is an actinide metal of silvery-gray appearance that tarnishes when exposed to air, 
+ 3.) forms a dull coating when oxidized.
+95  Americium:- 
+ 1.)Americium is a radioactive transuranic chemical element with symbol Am and atomic number 95. 
+ 2.)This member of the actinide series is located in the periodic table under the lanthanide element europium. 
+ 3.)By analogy was named after the Americas.
+96  Curium:- 
+ 1.)Curium is a transuranic radioactive chemical element.
+ 2.)Its symbol is Cm and atomic number 96. 
+ 3.)This element of the actinide series was named after Marie and Pierre Curie – both were known for their research on radioactivity.
+97 Berkelium:- 
+ 1.)Berkelium is a transuranic radioactive chemical element.
+ 2.)Its symbol Bk and atomic number 97. 
+ 3.)It is a member of the actinide and transuranium element series.
+98  Californium:- 
+ 1.)Californium is a radioactive metallic chemical element with symbol Cf and atomic number 98. 
+ 2.)The element was first made in 1950 at the University of California Radiation Laboratory in Berkeley.
+ 3.) Made by bombarding curium with alpha particles.
+99  Einsteinium:- 
+ 1.)Einsteinium is a synthetic element with symbol Es and atomic number 99. 
+ 2.)It is the seventh transuranic element.
+ 3.)It is an actinide.
+100  Fermium:- 
+ 1.)Fermium is a synthetic element.
+ 2.)Symbol Fm and atomic number 100. 
+ 3.)It is a member of the actinide series.
+101  Mendelevium:- 
+ 1.)Mendelevium is a synthetic element with chemical symbol Md (formerly Mv) and atomic number 101. 
+ 2.)A metallic radioactive transuranic element in the actinide series.
+ 3.)It is the first element that currently cannot be produced in macroscopic quantities through neutron bombardment of lighter elements.
+102  Nobelium:- 
+ 1.)Nobelium is a synthetic chemical element.
+ 2.)Symbol No and atomic number 102. 
+ 2.)It is named in honor of Alfred Nobel, the inventor of dynamite and benefactor of science.
+103  Lawrencium:- 
+ 1.)Lawrencium is a synthetic chemical element.
+ 2.)Its chemical symbol is Lr and atomic number 103. 
+ 3.)It is named in honor of Ernest Lawrence, inventor of the cyclotron, a device that was used to discover many artificial radioactive elements.
+104 Rutherfordium
+ 1.)It is transition metal.
+ 2.)Melting point-2400K.
+ 3.)Boiling point-5800K.
+105 Dubnium
+ 1.)Group 5,d-block.
+ 2.)Atomic radius-139pm.
+ 3.)Crystal structure-bcc.
+106 Seaborgium
+ 1.)Group 6,d-block.
+ 2.)Atomic radius 13pm.
+ 3.) Structure bcc.
+107 Bohrium
+ 1.)Group 7,d block.
+ 2.)Atomic radius 128pm.
+ 3.)Structure hcp.
+108 Hassium
+ 1.)Group 8,d block.
+ 2.)Atomic radius 126pm.
+ 3.)Structure hcp.
+109 Meitnerium
+ 1.)Group 9 , d block.
+ 2.) Atomic radius 128pm.
+ 3.)Structure fcc.
+110 Darmstadtium
+ 1.)Group 10, d block.
+ 2.) Atomic radius 132pm.
+ 3.)Structure bcc.
+111 Roentgenium
+ 1.)Group 11 , d block.
+ 2.) Atomic radius 138pm.
+ 3.)Structure bcc. 
+112 Copernicium
+ 1.)Group 12 , d block.
+ 2.) Atomic radius 147pm.
+ 3.)Structure hcp.
+113 Nihonium
+ 1.)Group 13, d block.
+ 2.) Atomic radius 170pm.
+ 3.)OS -1,1,3,5.
+114 Flerovium
+ 1.)Group 14, d block.
+ 2.) Atomic radius 180pm.
+ 3.)BP- 420.
+115 Moscovium
+ 1.)Group 15 , d block.
+ 2.) Atomic radius 187pm.
+ 3.)MP-670K.
+116 Livermorium
+ 1.)Group 16 , d block.
+ 2.) Atomic radius 183pm.
+ 3.)MP-637-680.  
+ 117 Tennessine
+ 1.)Group 17 , d block.
+ 2.) Atomic radius 138.
+ 3.)MP- 623-823K. 
+118 Oganesson
+ 1.)Group 18 , d block.
+ 2.) Covalent radius 157pm.
+ 3.)BP-350K. 
